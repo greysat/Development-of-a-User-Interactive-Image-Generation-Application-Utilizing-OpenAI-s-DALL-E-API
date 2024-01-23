@@ -1,0 +1,13 @@
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\bin\Debug\Text-To-Image-Project.exe.config
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\bin\Debug\Text-To-Image-Project.exe
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\bin\Debug\Text-To-Image-Project.pdb
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\obj\Debug\Text-To-Image-Project.csproj.AssemblyReference.cache
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\obj\Debug\DALLE_WinForms.Form1.resources
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\obj\Debug\Text_To_Image_Project.Properties.Resources.resources
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\obj\Debug\Text-To-Image-Project.csproj.GenerateResource.cache
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\obj\Debug\Text-To-Image-Project.csproj.CoreCompileInputs.cache
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\obj\Debug\Text-To-Image-Project.csproj.CopyComplete
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\obj\Debug\Text-To-Image-Project.exe
+C:\Users\Hinds-pc\Desktop\MesProjets\Text-To-Image-Project\Text-To-Image-Project\obj\Debug\Text-To-Image-Project.pdb
